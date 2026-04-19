@@ -9,3 +9,4 @@ jobs:
     uses: ./.github/workflows/main.yml
     with:
       keyboard: '["bastardkb/charybdis/4x6/v2/splinky_3"]'
+      mapping: '["bastardkb/charybdis/4x6/keymaps/via"]'
